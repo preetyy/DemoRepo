@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="test maven suit">
+<test name="test maven testNG">
+	<packages> 
+		<package name="com.qa.test.*"></package>
+	</packages> 
+</test>
+</suite>
